@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Секретний фургон з рентгеном",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Секретний фургон з рентгеном",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

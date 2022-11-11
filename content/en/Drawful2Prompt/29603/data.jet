@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Конверт повний павуків",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Конверт повний павуків",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Hey, it’s better than getting bills in the mail, am I right?",
+      "t": "A",
+      "v": "447061_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

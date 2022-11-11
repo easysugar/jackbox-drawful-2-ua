@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Парфуми із запахом сиру",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Парфуми із запахом сиру",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Perfect for picking up midwesterners.",
+      "t": "A",
+      "v": "436637_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

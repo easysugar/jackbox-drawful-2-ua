@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "мої ноги заснули і я не можу злізти з унітазу!",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "мої ноги заснули і я не можу злізти з унітазу!",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "The pain is real, people. It is real!",
+      "t": "A",
+      "v": "471566_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

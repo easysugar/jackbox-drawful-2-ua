@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Повільний танець із гігантським жуком",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Повільний танець із гігантським жуком",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Wait, isn’t that how Kafka’s The Metamorphosis ends?",
+      "t": "A",
+      "v": "437345_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

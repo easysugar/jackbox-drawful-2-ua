@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Плаваюча куля для боулінгу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Плаваюча куля для боулінгу",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

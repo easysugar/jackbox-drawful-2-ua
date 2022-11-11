@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Верблюд із чотирма горбами",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Верблюд із чотирма горбами",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

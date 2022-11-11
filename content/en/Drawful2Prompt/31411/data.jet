@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Качки переходять дорогу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Качки переходять дорогу",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

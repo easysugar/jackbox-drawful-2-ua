@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "як стати сексі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "як стати сексі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Have you been spying on me?",
+      "t": "A",
+      "v": "472718_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

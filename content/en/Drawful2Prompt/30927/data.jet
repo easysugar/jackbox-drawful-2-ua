@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Неохайний поцілунок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Неохайний поцілунок",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "No reason for sloppy kisses, just watch the old elbow. Oh no wait, no, I am thinking of high fives.",
+      "t": "A",
+      "v": "451034_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

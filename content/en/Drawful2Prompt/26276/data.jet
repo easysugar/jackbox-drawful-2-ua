@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Леді Гага проти Супермена",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Леді Гага проти Супермена",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "One wears an outrageous costume, the other is Superman.",
+      "t": "A",
+      "v": "436586_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

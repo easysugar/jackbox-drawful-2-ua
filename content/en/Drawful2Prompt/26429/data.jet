@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лікар 19 століття",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лікар 19 століття",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

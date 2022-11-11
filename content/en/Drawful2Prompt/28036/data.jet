@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Фокус Покус",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Фокус Покус",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

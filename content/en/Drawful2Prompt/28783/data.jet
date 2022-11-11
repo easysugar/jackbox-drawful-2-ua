@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Крута мама",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Крута мама",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Yeah, I love cool moms!",
+      "t": "A",
+      "v": "444594_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Вибух сечового міхура",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Вибух сечового міхура",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "If you want to prevent a bladder from exploding, always cut the blue wire.",
+      "t": "A",
+      "v": "442814_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

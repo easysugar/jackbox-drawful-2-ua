@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Христина Соловій з вогнеметом",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Христина Соловій з вогнеметом",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Now that is Sasha Fierce.",
+      "t": "A",
+      "v": "437297_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

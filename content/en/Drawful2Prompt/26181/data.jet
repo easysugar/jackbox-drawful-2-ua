@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Весілля вафель",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Весілля вафель",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I always cry at waffle weddings.",
+      "t": "A",
+      "v": "436301_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

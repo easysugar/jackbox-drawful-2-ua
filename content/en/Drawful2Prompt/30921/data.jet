@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Повна сумка пуголовків",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Повна сумка пуголовків",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Aaahh, loaded tots: the first sign of depression.",
+      "t": "A",
+      "v": "451016_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

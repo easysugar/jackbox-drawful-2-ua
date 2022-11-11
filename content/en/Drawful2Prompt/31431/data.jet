@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Балерина",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Балерина",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I wish I had twinkle toes. Mine only sparkle.",
+      "t": "A",
+      "v": "452549_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

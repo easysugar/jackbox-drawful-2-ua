@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кричу на зубну щітку",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кричу на зубну щітку",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Always yell at a toothbrush for at least three minutes every day.",
+      "t": "A",
+      "v": "439847_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

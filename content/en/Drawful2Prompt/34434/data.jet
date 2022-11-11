@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "самовдоволений бігун",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "самовдоволений бігун",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I know, I know. We could’ve just said runner.",
+      "t": "A",
+      "v": "472515_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

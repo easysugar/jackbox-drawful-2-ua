@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Штани за 40 грн",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Штани за 40 грн",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

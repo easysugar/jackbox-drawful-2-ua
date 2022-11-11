@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Допомога батькам у налаштуванні комп’ютера",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Допомога батькам у налаштуванні комп’ютера",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You can really feel the frustration.",
+      "t": "A",
+      "v": "442958_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

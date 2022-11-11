@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Шевченко у повітрі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Шевченко у повітрі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

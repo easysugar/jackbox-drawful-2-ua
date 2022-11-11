@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дитяча планета",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дитяча планета",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "When you’re in your 30s, that planet is called Facebook.",
+      "t": "A",
+      "v": "438896_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

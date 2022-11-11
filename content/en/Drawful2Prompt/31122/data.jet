@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Хлист",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Хлист",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know, too few people know how to actually draw J.K. Simmons.",
+      "t": "A",
+      "v": "451622_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

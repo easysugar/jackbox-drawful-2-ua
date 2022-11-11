@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Користувач Reddit",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Користувач Reddit",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

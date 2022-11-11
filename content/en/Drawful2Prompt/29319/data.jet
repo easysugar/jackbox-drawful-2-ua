@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дарт Вейдер голить ноги",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дарт Вейдер голить ноги",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know, I bet Darth Vader has very shapely calves.",
+      "t": "A",
+      "v": "446202_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

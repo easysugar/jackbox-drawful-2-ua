@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ковбой з відчуттям моди",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ковбой з відчуттям моди",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s all about knowing which chaps are in season.",
+      "t": "A",
+      "v": "436706_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "лінія між взуттям та гребінцем",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "лінія між взуттям та гребінцем",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

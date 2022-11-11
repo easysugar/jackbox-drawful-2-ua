@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Клуб розбитих сердець",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Клуб розбитих сердець",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ванна з губок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ванна з губок",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "So, if you’re wondering what titles you don’t get when you turn on the Family-Friendly toggle, this is one of them.",
+      "t": "A",
+      "v": "450926_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ох... це було проносне",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ох... це було проносне",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ugh... based on a true story.",
+      "t": "A",
+      "v": "436403_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

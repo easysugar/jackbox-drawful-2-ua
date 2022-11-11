@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кашель бісерами",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кашель бісерами",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Bees?! Oh, no... beads.",
+      "t": "A",
+      "v": "447211_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

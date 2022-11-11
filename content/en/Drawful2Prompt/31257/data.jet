@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сталкер Поклик Прип'яті",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сталкер Поклик Прип'яті",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

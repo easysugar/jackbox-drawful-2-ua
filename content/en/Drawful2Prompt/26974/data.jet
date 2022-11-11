@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Бізнесмен-панк",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Бізнесмен-панк",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I bet he doesn’t even look at the Outlook calendar!",
+      "t": "A",
+      "v": "438680_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

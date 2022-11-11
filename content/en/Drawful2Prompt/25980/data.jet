@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Волосся із цукрової вати",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Волосся із цукрової вати",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Президент у піжамі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Президент у піжамі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Pajama President’s first action was to veto night gowns.",
+      "t": "A",
+      "v": "448337_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

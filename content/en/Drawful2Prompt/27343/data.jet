@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Київський стиль хот-дога",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Київський стиль хот-дога",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Суха індичка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Суха індичка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Quick! Someone draw some gravy!",
+      "t": "A",
+      "v": "440807_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

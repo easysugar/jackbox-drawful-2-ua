@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Піньята повна бджіл",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Піньята повна бджіл",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s still better than a piñata full of candy corn.",
+      "t": "A",
+      "v": "437093_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

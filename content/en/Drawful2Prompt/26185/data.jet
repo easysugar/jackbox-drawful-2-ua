@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Романтична комедія",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Романтична комедія",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

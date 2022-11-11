@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дивна сушарка для рук",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дивна сушарка для рук",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

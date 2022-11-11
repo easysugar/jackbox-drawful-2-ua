@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Microsoft Excel",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Microsoft Excel",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

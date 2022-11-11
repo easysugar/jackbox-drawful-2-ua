@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Колекція дверних ручок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Колекція дверних ручок",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s when you know you’ve officially turned into a weirdo! I think... I think maybe that was a doorknob pun? Turned? Okay, these aren’t all comedy gold, alright?",
+      "t": "A",
+      "v": "452792_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

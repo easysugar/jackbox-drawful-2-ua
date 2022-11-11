@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пітні долоні",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пітні долоні",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Sweaty palms, my least favorite resort.",
+      "t": "A",
+      "v": "447593_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

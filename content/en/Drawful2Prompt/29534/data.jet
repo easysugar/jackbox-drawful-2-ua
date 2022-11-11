@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Гольф у майбутньому",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Гольф у майбутньому",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Wow, still not interested in that.",
+      "t": "A",
+      "v": "446851_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

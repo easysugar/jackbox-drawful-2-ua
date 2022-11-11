@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Духовий оркестр",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Духовий оркестр",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

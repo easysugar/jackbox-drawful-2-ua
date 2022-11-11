@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "волосся саме по собі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "волосся саме по собі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s like looking directly into my shower drain.",
+      "t": "A",
+      "v": "468005_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

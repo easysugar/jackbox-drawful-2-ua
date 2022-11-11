@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Залежність від поштових марок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Залежність від поштових марок",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

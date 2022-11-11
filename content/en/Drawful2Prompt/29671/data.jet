@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Батьківський молоток",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Батьківський молоток",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

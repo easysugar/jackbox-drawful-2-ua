@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Іван Миколайчук аплодує",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Іван Миколайчук аплодує",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

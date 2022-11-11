@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ремейк фільму",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ремейк фільму",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

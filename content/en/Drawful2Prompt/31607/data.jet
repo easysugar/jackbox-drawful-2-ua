@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "дитина-маг",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "дитина-маг",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Presto change-o this diaper, am I right?",
+      "t": "A",
+      "v": "453077_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

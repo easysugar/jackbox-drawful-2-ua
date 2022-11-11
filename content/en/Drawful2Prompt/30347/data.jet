@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Наталія Мосейчук",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Наталія Мосейчук",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "And now, this!",
+      "t": "A",
+      "v": "449294_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

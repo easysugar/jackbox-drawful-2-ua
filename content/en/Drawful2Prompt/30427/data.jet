@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Професор коледжу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Професор коледжу",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

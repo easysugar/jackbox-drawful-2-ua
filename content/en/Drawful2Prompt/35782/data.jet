@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "ці квіти жахливо пахнуть",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ці квіти жахливо пахнуть",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

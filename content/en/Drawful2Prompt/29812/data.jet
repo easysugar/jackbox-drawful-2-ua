@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кінець медового місяця",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кінець медового місяця",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

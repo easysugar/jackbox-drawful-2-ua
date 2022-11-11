@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Плачу у душі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Плачу у душі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Why does my crying always sound better in the shower?",
+      "t": "A",
+      "v": "437663_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

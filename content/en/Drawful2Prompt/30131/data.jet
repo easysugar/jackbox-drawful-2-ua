@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Людина-хліб",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Людина-хліб",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Hmm. All the men I date are pretty doughy.",
+      "t": "A",
+      "v": "448646_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

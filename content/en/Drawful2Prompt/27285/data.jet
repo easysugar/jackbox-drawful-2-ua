@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Протеїновий коктейль",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Протеїновий коктейль",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Це була моя остання жуйка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Це була моя остання жуйка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "The greatest lie ever told.",
+      "t": "A",
+      "v": "441407_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

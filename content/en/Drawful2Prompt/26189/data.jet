@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Вовкулаків гурт",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Вовкулаків гурт",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

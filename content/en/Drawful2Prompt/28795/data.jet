@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Крихітний пісуар",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Крихітний пісуар",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Oh, adorable!",
+      "t": "A",
+      "v": "444630_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

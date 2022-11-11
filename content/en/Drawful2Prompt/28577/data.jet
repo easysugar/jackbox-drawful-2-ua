@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Торнадо з креветок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Торнадо з креветок",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Goes great with a cocktail sauce typhoon.",
+      "t": "A",
+      "v": "443866_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

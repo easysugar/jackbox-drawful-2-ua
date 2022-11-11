@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Справжні домогосподарки Трансвільванії",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Справжні домогосподарки Трансвільванії",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I would definitely watch that.",
+      "t": "A",
+      "v": "437399_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

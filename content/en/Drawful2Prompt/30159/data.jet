@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Французька ваніль",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Французька ваніль",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Or, as I like to call it, pretentious vanilla.",
+      "t": "A",
+      "v": "448730_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

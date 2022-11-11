@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "смерть через тромбон",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "смерть через тромбон",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

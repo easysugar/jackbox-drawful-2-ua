@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мій палець пахне сиром",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мій палець пахне сиром",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

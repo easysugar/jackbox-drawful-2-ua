@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "В'язниця для кролів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "В'язниця для кролів",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Dead man hoppin’.",
+      "t": "A",
+      "v": "442448_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

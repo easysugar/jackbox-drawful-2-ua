@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дві третини Карни",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дві третини Карни",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’m so sorry about that one.",
+      "t": "A",
+      "v": "442565_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

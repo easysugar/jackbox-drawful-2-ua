@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "єдиний вид гострих крилець",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "єдиний вид гострих крилець",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

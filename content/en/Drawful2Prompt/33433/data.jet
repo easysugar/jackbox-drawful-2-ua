@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "волохаті люди",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "волохаті люди",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ah, my people.",
+      "t": "A",
+      "v": "466223_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

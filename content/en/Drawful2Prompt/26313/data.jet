@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дерева роблять солодку, солодку любов",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дерева роблять солодку, солодку любов",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Good for you, trees!",
+      "t": "A",
+      "v": "436697_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "мені треба піти у художню школу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "мені треба піти у художню школу",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

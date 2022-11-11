@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Срач у Твіттері",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Срач у Твіттері",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Don’t forget to follow us @jackboxgames on Twitter! Seemed like the right time to share that.",
+      "t": "A",
+      "v": "448700_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

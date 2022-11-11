@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сумний випускний вечір",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сумний випускний вечір",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’m pretty sure that was the actual theme of my senior prom.",
+      "t": "A",
+      "v": "447310_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

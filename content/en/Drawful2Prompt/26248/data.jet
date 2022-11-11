@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сенс життя",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сенс життя",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Huh, so now we know.",
+      "t": "A",
+      "v": "436502_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

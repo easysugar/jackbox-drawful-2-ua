@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Люди в скляних будинках",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Люди в скляних будинках",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It takes a lot of confidence to shower there.",
+      "t": "A",
+      "v": "437012_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

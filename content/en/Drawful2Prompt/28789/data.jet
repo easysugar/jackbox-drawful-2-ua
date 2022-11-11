@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Скляні штани",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Скляні штани",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know what they say: people in glass pants, should not pass stones.",
+      "t": "A",
+      "v": "444612_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

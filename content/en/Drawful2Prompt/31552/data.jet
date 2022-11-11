@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Старий джазовий співак",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Старий джазовий співак",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

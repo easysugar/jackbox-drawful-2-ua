@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "король Інтернету",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "король Інтернету",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’m not sure who the king is, but the queen of the internet is definitely Cher’s Twitter account.",
+      "t": "A",
+      "v": "451916_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

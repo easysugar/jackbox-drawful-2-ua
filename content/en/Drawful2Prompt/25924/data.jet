@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лазерні пуки",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лазерні пуки",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s the only way I can win at laser tag.",
+      "t": "A",
+      "v": "435450_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

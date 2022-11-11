@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сексуальний голос",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сексуальний голос",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Something I know a little somethin’ about!",
+      "t": "A",
+      "v": "438449_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

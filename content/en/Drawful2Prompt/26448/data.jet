@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Їм соснову шишку",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Їм соснову шишку",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Pine cone is the new kale.",
+      "t": "A",
+      "v": "437102_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

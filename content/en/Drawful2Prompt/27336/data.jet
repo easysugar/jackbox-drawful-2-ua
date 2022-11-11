@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мир у всьому світі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мир у всьому світі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

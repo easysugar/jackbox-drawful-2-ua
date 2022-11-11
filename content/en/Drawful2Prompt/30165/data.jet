@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Веселі старти на смерть",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Веселі старти на смерть",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I think that’s how Alexander Hamilton died.",
+      "t": "A",
+      "v": "448748_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

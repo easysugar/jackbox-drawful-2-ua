@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Літаючі зачіски",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Літаючі зачіски",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

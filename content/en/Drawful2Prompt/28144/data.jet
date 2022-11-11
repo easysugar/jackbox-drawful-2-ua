@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Незламні лікті",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Незламні лікті",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Easily the most attractive feature on a guy.",
+      "t": "A",
+      "v": "442193_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

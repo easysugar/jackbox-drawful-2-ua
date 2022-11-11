@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мої зуби полетіли геть",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мої зуби полетіли геть",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "But if your teeth truly love you, they’ll come flying back.",
+      "t": "A",
+      "v": "439592_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

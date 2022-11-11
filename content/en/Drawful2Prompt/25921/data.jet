@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дістаюся до другої бази",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дістаюся до другої бази",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Gross.",
+      "t": "A",
+      "v": "435441_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

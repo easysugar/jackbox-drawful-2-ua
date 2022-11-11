@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Вибуховий пиріг",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Вибуховий пиріг",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Exploding pie? I’m more of an exploding cake fan, to be honest.",
+      "t": "A",
+      "v": "452252_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

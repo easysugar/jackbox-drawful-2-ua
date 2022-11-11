@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "День народження Робокопа",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "День народження Робокопа",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

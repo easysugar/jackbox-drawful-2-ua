@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Я какаю з пахви",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Я какаю з пахви",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Okay, no. Let’s not dwell on this one.",
+      "t": "A",
+      "v": "439547_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

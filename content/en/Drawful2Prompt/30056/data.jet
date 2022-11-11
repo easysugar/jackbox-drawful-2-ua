@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Підгоріла лазанья",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Підгоріла лазанья",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Garfield calls those Mondays.",
+      "t": "A",
+      "v": "448421_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

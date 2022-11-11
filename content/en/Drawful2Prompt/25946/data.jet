@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Магазин Apple в космосі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Магазин Apple в космосі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

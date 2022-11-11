@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Плюю на долар",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Плюю на долар",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s why I don’t carry cash.",
+      "t": "A",
+      "v": "440360_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пиловий вітер",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пиловий вітер",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

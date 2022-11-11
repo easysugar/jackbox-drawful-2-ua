@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Антиматерія",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Антиматерія",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Science!",
+      "t": "A",
+      "v": "436424_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

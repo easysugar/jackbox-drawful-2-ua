@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "лише одна людина на моєму дні народження",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "лише одна людина на моєму дні народження",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Based on a true story.",
+      "t": "A",
+      "v": "471560_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

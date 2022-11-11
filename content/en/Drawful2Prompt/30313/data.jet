@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Слухання у Конгресі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Слухання у Конгресі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

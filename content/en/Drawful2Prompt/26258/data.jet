@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "пекло поза зоною досяжності",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "пекло поза зоною досяжності",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

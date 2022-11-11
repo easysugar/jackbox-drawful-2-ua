@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пограбування банку крові",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пограбування банку крові",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Об'єднання письменників",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Об'єднання письменників",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I can’t think of a funny response for this one.",
+      "t": "A",
+      "v": "438431_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

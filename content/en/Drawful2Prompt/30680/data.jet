@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Безумовно не секс-гойдалка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Безумовно не секс-гойдалка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Yep, nope. Definitely not.",
+      "t": "A",
+      "v": "450293_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

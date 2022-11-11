@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Улюблені труси",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Улюблені труси",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "For me, it’s the one pair that doesn’t have holes.",
+      "t": "A",
+      "v": "445740_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

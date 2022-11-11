@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "не їж відкриту цукерку",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "не їж відкриту цукерку",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s great advice... if you’re a coward!",
+      "t": "A",
+      "v": "467740_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

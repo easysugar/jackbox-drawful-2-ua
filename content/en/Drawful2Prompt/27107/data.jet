@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ящик, повний використаних бинтів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ящик, повний використаних бинтів",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s what I label most of my moving boxes.",
+      "t": "A",
+      "v": "439079_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

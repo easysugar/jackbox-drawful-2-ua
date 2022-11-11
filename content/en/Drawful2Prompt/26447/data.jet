@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "мегафон повний морозива",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "мегафон повний морозива",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Mmm. Yum.",
+      "t": "A",
+      "v": "437099_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

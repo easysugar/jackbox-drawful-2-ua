@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "зірки та музичні ноти",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "зірки та музичні ноти",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I think this is what it looks like when a Care Bear dies.",
+      "t": "A",
+      "v": "468011_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

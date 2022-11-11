@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Персональний тренер сну",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Персональний тренер сну",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

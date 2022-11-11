@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Оптимус Прайм впав у колодязь",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Оптимус Прайм впав у колодязь",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

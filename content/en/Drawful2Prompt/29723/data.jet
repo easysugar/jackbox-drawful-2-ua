@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Моторошна дупка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Моторошна дупка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Yep. Spooky butthole. You know, it was someone’s job to come up with that title. They were paid money to do it. And they were not fired. Spooky butthole.",
+      "t": "A",
+      "v": "447421_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

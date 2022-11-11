@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Жадібність - це добре",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Жадібність - це добре",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ooh, that reminds me, you should all buy Drawful 2 if you don’t already own it. Buy it twice! I need money!",
+      "t": "A",
+      "v": "440552_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Параноїк",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Параноїк",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I don’t get paranoid. Wait, why is that?",
+      "t": "A",
+      "v": "439124_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

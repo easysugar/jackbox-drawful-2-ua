@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "не можу перестати думати про солонину",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "не можу перестати думати про солонину",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I know. It’s tough.",
+      "t": "A",
+      "v": "447647_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

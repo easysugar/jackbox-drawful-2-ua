@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Смерть приходить до нас усіх",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Смерть приходить до нас усіх",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Yikes, that’s a downer. But we’re all having fun! Ha... ugh.",
+      "t": "A",
+      "v": "444342_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Морквяний король",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Морквяний король",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

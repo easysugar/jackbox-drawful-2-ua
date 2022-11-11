@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунки під трибунами",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунки під трибунами",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ahh, nothing says romance like kissing mere inches from strangers’ butts.",
+      "t": "A",
+      "v": "442379_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

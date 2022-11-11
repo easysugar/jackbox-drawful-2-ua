@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Срачка і пердячка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Срачка і пердячка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "So, so very classy.",
+      "t": "A",
+      "v": "447785_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

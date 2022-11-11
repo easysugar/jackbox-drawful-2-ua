@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дихання вогнем на весіллі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дихання вогнем на весіллі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

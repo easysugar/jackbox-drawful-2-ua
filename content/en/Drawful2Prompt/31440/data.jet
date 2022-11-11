@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "сцена з Кайдашевої сім'ї",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "сцена з Кайдашевої сім'ї",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "A scene from... The Scottish Play. I call it that because I’m... an actor!",
+      "t": "A",
+      "v": "452576_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

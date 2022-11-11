@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пан руки-лобстери",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пан руки-лобстери",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "And he lived happily ever after with Ms. Butterbutt.",
+      "t": "A",
+      "v": "439496_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

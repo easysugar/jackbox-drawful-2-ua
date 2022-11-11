@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Життя виходить із-під контролю",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Життя виходить із-під контролю",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "This really speaks to me. Hopefully I’ll have pulled my whole life together by the time we make Drawful 3.",
+      "t": "A",
+      "v": "448076_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

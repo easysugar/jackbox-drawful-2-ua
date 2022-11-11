@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Замах на вбивство",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Замах на вбивство",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know, you never know if you’ll like something until you try.",
+      "t": "A",
+      "v": "443075_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

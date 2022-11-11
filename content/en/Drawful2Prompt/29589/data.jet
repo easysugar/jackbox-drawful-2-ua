@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мотивація то є сильна",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мотивація то є сильна",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

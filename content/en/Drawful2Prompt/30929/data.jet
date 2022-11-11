@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Хіба це молоко погане на смак?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Хіба це молоко погане на смак?",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

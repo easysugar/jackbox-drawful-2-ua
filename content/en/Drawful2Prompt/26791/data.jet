@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Обійми копів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Обійми копів",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You have the right to remain snuggled.",
+      "t": "A",
+      "v": "438131_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Трикутники на човні",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Трикутники на човні",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

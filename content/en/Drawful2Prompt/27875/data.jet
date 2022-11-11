@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "М'ясо потіє",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "М'ясо потіє",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Or, as I call it, pork-speration.",
+      "t": "A",
+      "v": "441383_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

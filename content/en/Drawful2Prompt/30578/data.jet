@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Професор Бабай",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Професор Бабай",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "During his office hours he is nowhere to be found.",
+      "t": "A",
+      "v": "449987_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

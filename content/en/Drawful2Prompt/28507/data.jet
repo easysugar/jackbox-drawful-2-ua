@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Випадковий зоровий контакт із незнайомцем",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Випадковий зоровий контакт із незнайомцем",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "The pain is so real.",
+      "t": "A",
+      "v": "443282_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

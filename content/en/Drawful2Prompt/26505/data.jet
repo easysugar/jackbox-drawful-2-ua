@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Я вб'ю тебе селерою!",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Я вб'ю тебе селерою!",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "The only murder where you burn more calories than you consume.",
+      "t": "A",
+      "v": "437273_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

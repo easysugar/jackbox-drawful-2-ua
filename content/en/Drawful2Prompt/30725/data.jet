@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Марія Примаченко",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Марія Примаченко",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

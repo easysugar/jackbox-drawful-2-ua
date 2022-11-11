@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Справжні домогосподарки",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Справжні домогосподарки",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Bravo.",
+      "t": "A",
+      "v": "435910_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

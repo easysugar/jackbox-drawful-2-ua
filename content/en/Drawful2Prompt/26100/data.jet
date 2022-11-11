@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кривавий апельсин",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кривавий апельсин",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "This is why you don’t see vampires with scurvy.",
+      "t": "A",
+      "v": "436055_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

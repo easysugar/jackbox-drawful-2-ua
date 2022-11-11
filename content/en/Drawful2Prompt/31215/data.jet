@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Колупатися в носі ножем",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Колупатися в носі ножем",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

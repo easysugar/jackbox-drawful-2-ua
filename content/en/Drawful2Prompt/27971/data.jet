@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Таємна мова близнюків",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Таємна мова близнюків",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

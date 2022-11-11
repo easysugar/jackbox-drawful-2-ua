@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Олександр Пономарьов",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Олександр Пономарьов",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

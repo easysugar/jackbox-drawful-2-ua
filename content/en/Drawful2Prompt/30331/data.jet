@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Привабливий листоноша",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Привабливий листоноша",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "He’s the full package.",
+      "t": "A",
+      "v": "449246_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

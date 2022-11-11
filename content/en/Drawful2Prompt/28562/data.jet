@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сухі шмарклі на паперовій тарілці",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сухі шмарклі на паперовій тарілці",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ugh, gross. I’m sorry. Ugh. Why did we do that?",
+      "t": "A",
+      "v": "443821_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

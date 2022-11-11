@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "У мене побачення в каналізації",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "У мене побачення в каналізації",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "At least in the sewer you don’t have to excuse yourself to go to the restroom.",
+      "t": "A",
+      "v": "441146_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

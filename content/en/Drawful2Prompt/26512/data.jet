@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "весь у кліщах",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "весь у кліщах",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know, we’ve all been there.",
+      "t": "A",
+      "v": "437294_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Олійка з-під шпрот",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Олійка з-під шпрот",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Mmmm... gross!",
+      "t": "A",
+      "v": "452465_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

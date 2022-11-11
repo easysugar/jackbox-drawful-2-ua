@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Правильний спосіб їсти щура",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Правильний спосіб їсти щура",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I was raised to always go tail first.",
+      "t": "A",
+      "v": "443090_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

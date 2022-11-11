@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "бавовна",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "бавовна",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Якщо бавовна, то тільки потужна.",
+      "t": "A",
+      "v": "450473_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Музей арахісу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Музей арахісу",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ugh... I’m allergic to museums.",
+      "t": "A",
+      "v": "439499_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

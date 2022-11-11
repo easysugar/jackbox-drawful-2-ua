@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "сміттєвий пакет, з якого капає кров",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "сміттєвий пакет, з якого капає кров",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "As a reminder: always store human blood in a plastic bag before you put it in your garbage.",
+      "t": "A",
+      "v": "438347_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

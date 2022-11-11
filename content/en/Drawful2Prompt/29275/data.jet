@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Будинок, що зменшується",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Будинок, що зменшується",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s why you don’t wash your walls with hot water.",
+      "t": "A",
+      "v": "446070_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

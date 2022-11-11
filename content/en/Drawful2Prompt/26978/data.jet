@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Амнезія",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Амнезія",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Hm. You know, I don’t remember amnesia actually being a prompt. That’s weird.",
+      "t": "A",
+      "v": "438692_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Газонокосарка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Газонокосарка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "The only way to get high on grass.",
+      "t": "A",
+      "v": "441293_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

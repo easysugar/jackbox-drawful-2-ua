@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Нетфлікс і розслабон",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Нетфлікс і розслабон",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Meh, I’m more into PBS and sleep.",
+      "t": "A",
+      "v": "435964_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Масло для бодібілдерів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Масло для бодібілдерів",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

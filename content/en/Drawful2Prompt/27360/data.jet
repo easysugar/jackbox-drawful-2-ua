@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Вогні п'ятничної ночі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Вогні п'ятничної ночі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Clear eyes, full hearts and something... something else. I’m only on Season One right now.",
+      "t": "A",
+      "v": "439838_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лук'янівське СІЗО",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лук'янівське СІЗО",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

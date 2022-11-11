@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Невмирущий кошмарний клоун",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Невмирущий кошмарний клоун",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Oh yeah, no that’s definitely the guy from my dreams.",
+      "t": "A",
+      "v": "437591_2f",
+      "n": "JokeAudio"
+    }
+  ]
+}

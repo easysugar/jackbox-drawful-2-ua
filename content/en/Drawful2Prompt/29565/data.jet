@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Якийсь чувак, що колекціонує нижню білизну",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Якийсь чувак, що колекціонує нижню білизну",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Hey, it’s a real job!",
+      "t": "A",
+      "v": "446947_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

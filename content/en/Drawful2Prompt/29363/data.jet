@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Двоє хлопців курять одну сигару",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Двоє хлопців курять одну сигару",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Only half the emphysema!",
+      "t": "A",
+      "v": "446334_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

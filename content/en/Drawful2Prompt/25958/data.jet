@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Смердюча підлива",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Смердюча підлива",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

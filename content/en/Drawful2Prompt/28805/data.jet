@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Сексуальна напруга",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Сексуальна напруга",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ooo... I can feel it.",
+      "t": "A",
+      "v": "444660_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

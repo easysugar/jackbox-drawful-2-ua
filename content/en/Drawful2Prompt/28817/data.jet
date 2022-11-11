@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Додатковий зуб",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Додатковий зуб",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That is a classic dentist scam.",
+      "t": "A",
+      "v": "444696_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

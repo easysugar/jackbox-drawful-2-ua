@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "малюнок від <RANDOM_PLAYER_NAME>",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "малюнок від <RANDOM_PLAYER_NAME>",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

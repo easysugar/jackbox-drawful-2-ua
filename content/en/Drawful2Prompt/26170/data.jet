@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "розмова біля пісуару",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "розмова біля пісуару",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I assume that’s a thing?",
+      "t": "A",
+      "v": "436268_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

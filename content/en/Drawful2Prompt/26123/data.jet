@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мікроскопічна горила",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мікроскопічна горила",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

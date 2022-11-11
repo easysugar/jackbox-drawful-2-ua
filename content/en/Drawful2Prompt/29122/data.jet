@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Весела пробіжка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Весела пробіжка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s when you ride on the back of someone running, right?",
+      "t": "A",
+      "v": "445611_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

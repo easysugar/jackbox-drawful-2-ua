@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Мода 90-х",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Мода 90-х",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That is exactly what I’m wearing now... and will be wearing forever.",
+      "t": "A",
+      "v": "446779_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

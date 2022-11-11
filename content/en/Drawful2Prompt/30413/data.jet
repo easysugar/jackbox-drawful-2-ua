@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "масло замість дезодоранту",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "масло замість дезодоранту",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

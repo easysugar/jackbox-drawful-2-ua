@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Бачу червоне",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Бачу червоне",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’ll be the first to admit that some of the titles we put in here are really unfair.",
+      "t": "A",
+      "v": "440675_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

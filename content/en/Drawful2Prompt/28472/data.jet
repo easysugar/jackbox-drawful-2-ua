@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Доктор Вилкоруки",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Доктор Вилкоруки",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’d get a second opinion.",
+      "t": "A",
+      "v": "443177_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

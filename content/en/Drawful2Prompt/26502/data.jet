@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Футуристичний динозавр",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Футуристичний динозавр",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

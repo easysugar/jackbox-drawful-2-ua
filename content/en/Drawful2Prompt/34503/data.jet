@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "стрибок",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "стрибок",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Sorry for the short prompt. Graphics cost money, people!",
+      "t": "A",
+      "v": "472876_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

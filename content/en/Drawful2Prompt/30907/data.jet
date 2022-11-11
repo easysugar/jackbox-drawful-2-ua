@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Злегка вживані пластирі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Злегка вживані пластирі",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

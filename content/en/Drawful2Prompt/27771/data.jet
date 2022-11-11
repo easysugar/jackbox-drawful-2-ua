@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пісок між сідницями",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пісок між сідницями",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Leave it in there and you’ll make a pearl.",
+      "t": "A",
+      "v": "441071_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

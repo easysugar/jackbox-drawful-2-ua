@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "обман в азартних іграх",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "обман в азартних іграх",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Найсумніший масаж",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Найсумніший масаж",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

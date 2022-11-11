@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Контрабанда сиру",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Контрабанда сиру",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

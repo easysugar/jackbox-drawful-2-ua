@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Штани повні підливи",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Штани повні підливи",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "And people say sweatpants can’t be sexy.",
+      "t": "A",
+      "v": "444465_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

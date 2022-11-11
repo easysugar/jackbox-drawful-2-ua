@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Звідки беруться діти",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Звідки беруться діти",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Whelp, glad we solved that once and for all. Just show this picture to your kids next time they ask.",
+      "t": "A",
+      "v": "439790_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Примарний круїз",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Примарний круїз",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "If Kid Rock gets a cruise, so should ghosts.",
+      "t": "A",
+      "v": "436685_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

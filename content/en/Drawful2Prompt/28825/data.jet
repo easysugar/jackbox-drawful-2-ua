@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пошук кохання не в тих місцях",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пошук кохання не в тих місцях",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "So many jokes I could make right now, but you know, we gotta keep our teen rating!",
+      "t": "A",
+      "v": "444720_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

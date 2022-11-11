@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "смачна солодка кукурудза",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "смачна солодка кукурудза",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Delicious candy corn, huh? Well that must exist in some weird alternate universe.",
+      "t": "A",
+      "v": "450401_1f",
+      "n": "JokeAudio"
+    }
+  ]
+}

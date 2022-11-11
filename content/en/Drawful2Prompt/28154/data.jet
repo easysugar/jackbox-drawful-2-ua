@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Татуювання на попереку",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Татуювання на попереку",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

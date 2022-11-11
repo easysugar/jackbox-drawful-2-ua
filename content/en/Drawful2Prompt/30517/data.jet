@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Декоративні гарбузи",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Декоративні гарбузи",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

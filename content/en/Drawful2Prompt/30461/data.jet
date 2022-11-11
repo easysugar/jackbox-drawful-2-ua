@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Перехід на червоне",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Перехід на червоне",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

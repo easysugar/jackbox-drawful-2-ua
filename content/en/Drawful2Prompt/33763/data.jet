@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "прудка стрілка годинника",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "прудка стрілка годинника",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I bet that would melt Salvador Dali’s weird little heart.",
+      "t": "A",
+      "v": "468002_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

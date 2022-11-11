@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунок з кузиною",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунок з кузиною",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "What? What that’s gross! No! I never! Who told... what? Who? No! That’s... that’s ridiculous!",
+      "t": "A",
+      "v": "435444_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Квартира у Києві",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Квартира у Києві",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I think we gave way too much drawing space for that one.",
+      "t": "A",
+      "v": "449324_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

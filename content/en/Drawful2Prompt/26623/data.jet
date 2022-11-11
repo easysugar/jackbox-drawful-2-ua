@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Я люблю лизати пальці",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Я люблю лизати пальці",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Okay, let’s move on, shall we?",
+      "t": "A",
+      "v": "437627_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

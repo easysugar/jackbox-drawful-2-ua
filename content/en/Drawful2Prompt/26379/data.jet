@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Рентген котика",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Рентген котика",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Hmm... that’s either cancer or someone’s hand.",
+      "t": "A",
+      "v": "436895_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

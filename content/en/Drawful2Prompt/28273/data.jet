@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Краватка з мертвої змії",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Краватка з мертвої змії",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Fashion. I don’t get it.",
+      "t": "A",
+      "v": "442580_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

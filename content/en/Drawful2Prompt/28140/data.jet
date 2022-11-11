@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Отруйна зубна паста",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Отруйна зубна паста",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s still better than the all-natural stuff.",
+      "t": "A",
+      "v": "442181_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

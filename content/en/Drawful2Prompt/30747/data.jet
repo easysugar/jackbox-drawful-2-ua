@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Столова ложка поруч із чайною",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Столова ложка поруч із чайною",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Жахливий покерфейс",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Жахливий покерфейс",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

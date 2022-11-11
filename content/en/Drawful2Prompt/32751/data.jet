@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "роблю вигляд, що зайнятий",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "роблю вигляд, що зайнятий",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s like you’ve seen me work in an office.",
+      "t": "A",
+      "v": "461968_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

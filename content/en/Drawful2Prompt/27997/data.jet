@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Вбивця Зодіаку",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Вбивця Зодіаку",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

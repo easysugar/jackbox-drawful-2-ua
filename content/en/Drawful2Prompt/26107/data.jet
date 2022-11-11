@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Я розорений!",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Я розорений!",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Aww, those were my first words as a baby.",
+      "t": "A",
+      "v": "436076_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

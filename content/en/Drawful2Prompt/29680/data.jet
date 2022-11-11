@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ця капуста викликає звикання!",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ця капуста викликає звикання!",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

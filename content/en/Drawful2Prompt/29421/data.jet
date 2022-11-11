@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Пальто зі зміїної шкіри",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Пальто зі зміїної шкіри",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I hope that coat wasn’t made out of 101 adorable snake babies.",
+      "t": "A",
+      "v": "446512_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

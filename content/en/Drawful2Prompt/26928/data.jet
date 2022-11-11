@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лисий Чубака",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лисий Чубака",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

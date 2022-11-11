@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Яйця для очей",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Яйця для очей",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Throw in some bacon eyebrows and I’ve met my soulmate.",
+      "t": "A",
+      "v": "444750_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

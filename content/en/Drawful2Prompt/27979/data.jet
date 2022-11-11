@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Купа голів Барбі",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Купа голів Барбі",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "One day that will be America’s currency.",
+      "t": "A",
+      "v": "441695_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

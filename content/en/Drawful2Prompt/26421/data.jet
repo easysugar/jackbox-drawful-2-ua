@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "озлобленна продуктова торба",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "озлобленна продуктова торба",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

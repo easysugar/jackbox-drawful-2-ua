@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Крик в порожнечу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Крик в порожнечу",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I believe that’s called Facebook.",
+      "t": "A",
+      "v": "444468_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

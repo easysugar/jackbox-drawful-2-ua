@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лежача ніжка індички",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лежача ніжка індички",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

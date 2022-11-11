@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Я не відьма!",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Я не відьма!",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That is exactly what a witch would say.",
+      "t": "A",
+      "v": "449912_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

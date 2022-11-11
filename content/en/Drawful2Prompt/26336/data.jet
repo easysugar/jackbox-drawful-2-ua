@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Молочні коктейлі з молочаю",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Молочні коктейлі з молочаю",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Do not plant a milkshake tree or everyone will come to your yard.",
+      "t": "A",
+      "v": "436766_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

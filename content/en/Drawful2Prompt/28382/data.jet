@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Карти конфлікту",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Карти конфлікту",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

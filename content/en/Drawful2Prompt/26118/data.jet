@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Татові джинси",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Татові джинси",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

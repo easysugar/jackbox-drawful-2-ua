@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кинутий у Парку Юрського періоду",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кинутий у Парку Юрського періоду",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "At least it wasn’t Jurassic World.",
+      "t": "A",
+      "v": "437267_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

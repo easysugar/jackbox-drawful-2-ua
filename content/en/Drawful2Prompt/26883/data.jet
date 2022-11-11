@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дежавю",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дежавю",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Have we done this one before? Did I say this afterward?",
+      "t": "A",
+      "v": "438407_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

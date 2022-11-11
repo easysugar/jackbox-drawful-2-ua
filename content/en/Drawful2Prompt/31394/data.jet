@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "швайнокарась",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "швайнокарась",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Ugh. I can never find my dreams in this thing.",
+      "t": "A",
+      "v": "452438_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Танк стріляє соусом",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Танк стріляє соусом",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Годинник на щиколотці",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Годинник на щиколотці",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "My ankle watch notifies authorities when I leave my house!",
+      "t": "A",
+      "v": "448829_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

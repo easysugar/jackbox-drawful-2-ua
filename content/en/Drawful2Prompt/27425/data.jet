@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Підгузки для драконів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Підгузки для драконів",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

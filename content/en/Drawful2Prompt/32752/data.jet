@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "будинок і ще якийсь текст навіщось",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "будинок і ще якийсь текст навіщось",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "In California that line would command half a million for the real estate alone.",
+      "t": "A",
+      "v": "461971_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

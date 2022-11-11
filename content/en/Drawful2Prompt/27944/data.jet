@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Канал трусів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Канал трусів",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

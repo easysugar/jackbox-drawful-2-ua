@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Гімнаст зі стрілою в спині",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Гімнаст зі стрілою в спині",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That is still no excuse if you don’t stick the landing.",
+      "t": "A",
+      "v": "447716_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

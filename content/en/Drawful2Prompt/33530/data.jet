@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "всі залипають в телефони",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "всі залипають в телефони",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Where have I seen this before? Oh yeah, everywhere.",
+      "t": "A",
+      "v": "466726_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

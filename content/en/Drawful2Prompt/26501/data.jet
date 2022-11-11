@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ольга Сумська крізь роки",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ольга Сумська крізь роки",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You know, Chandler.",
+      "t": "A",
+      "v": "437261_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Постапокаліптична Софіївка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Постапокаліптична Софіївка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "There’s really no other place I’d liked to fall in love.",
+      "t": "A",
+      "v": "442346_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

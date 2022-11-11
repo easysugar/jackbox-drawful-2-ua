@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Паркові лавки закохуються одна в одну",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Паркові лавки закохуються одна в одну",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Aw! Now they’re love seats!",
+      "t": "A",
+      "v": "449618_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

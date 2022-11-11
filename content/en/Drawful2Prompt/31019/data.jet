@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лікарська халатність",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лікарська халатність",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

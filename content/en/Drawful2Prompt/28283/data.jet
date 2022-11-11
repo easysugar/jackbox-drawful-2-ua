@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Гордість і упередження",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Гордість і упередження",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Never read it. But, I am aware that it is a book. So... I’m smart.",
+      "t": "A",
+      "v": "442610_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

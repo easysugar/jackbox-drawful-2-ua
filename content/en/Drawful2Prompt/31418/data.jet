@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Гравітація Місяця",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Гравітація Місяця",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

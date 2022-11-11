@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "помста пінгвіна",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "помста пінгвіна",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "You better watch out, Morgan Freeman. You’re first on their list.",
+      "t": "A",
+      "v": "436172_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

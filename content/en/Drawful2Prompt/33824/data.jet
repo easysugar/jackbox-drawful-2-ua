@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "дуже довге зітхання",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "дуже довге зітхання",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "That’s my mother’s mating call.",
+      "t": "A",
+      "v": "468324_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

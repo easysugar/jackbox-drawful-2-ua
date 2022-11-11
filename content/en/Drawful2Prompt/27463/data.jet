@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунок динозаврів",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Поцілунок динозаврів",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Awwww.",
+      "t": "A",
+      "v": "440147_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

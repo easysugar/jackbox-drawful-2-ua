@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Райдужний пук",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Райдужний пук",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It’s... so beautiful.",
+      "t": "A",
+      "v": "440531_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

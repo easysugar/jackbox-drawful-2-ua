@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "бабуся у вогні",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "бабуся у вогні",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Через це мені стає сумно.",
+      "t": "A",
+      "v": "453011_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

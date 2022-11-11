@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Туалетне вино",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Туалетне вино",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "It always pairs well with a urinal cake.",
+      "t": "A",
+      "v": "438140_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

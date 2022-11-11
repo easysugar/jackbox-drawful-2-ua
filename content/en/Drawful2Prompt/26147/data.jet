@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Жарт, який бомбить",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Жарт, який бомбить",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I wonder what that’s like, am I right? I mean, all my stuff is obviously gold so... it’s not like I’ve... uhm... like ever... ever bombed on stage or in life. Uhm... so... you know, I just... the point is I don’t know what it’s like... so.",
+      "t": "A",
+      "v": "436196_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

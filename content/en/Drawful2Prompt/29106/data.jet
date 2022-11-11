@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Свинячі парфуми",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Свинячі парфуми",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

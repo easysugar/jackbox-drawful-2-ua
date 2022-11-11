@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Король бруду",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Король бруду",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "All hail the Dirt King!",
+      "t": "A",
+      "v": "448853_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

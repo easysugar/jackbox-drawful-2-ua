@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дешевий туалетний папір",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дешевий туалетний папір",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Why pay for toilet paper when Chipotle napkins are totally free?",
+      "t": "A",
+      "v": "435723_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

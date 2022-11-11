@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Шинка для мізків",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Шинка для мізків",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Well, that sounds delicious.",
+      "t": "A",
+      "v": "436871_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

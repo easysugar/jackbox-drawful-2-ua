@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Еротичний роман з бібліотеки",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Еротичний роман з бібліотеки",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I bet the pages in that book don’t turn too easily.",
+      "t": "A",
+      "v": "436412_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

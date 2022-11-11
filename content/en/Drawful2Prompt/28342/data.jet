@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "З палок і ще дечого",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "З палок і ще дечого",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I gotta say, you really nailed the “and stuff” part.",
+      "t": "A",
+      "v": "442787_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

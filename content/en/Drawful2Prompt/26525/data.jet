@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Кур'єр уві сні",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Кур'єр уві сні",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

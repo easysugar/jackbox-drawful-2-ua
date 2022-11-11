@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Це зона без піци",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Це зона без піци",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "But it is a calzone zone.",
+      "t": "A",
+      "v": "449087_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

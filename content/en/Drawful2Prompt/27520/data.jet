@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ванна бульйону",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ванна бульйону",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "I’m more of a gravy shower person.",
+      "t": "A",
+      "v": "440318_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

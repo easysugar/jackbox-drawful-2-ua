@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Олег Винник",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Олег Винник",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "We are just full of hip, topical references.",
+      "t": "A",
+      "v": "436433_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

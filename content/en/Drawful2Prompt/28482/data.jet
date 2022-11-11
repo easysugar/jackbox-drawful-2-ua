@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "один день до пенсії",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "один день до пенсії",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

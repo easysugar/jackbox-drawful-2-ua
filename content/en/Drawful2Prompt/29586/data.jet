@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Піраміди і трикутники",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Піраміди і трикутники",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

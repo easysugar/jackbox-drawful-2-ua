@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Нерви через хом'яків",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Нерви через хом'яків",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

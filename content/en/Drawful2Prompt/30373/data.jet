@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Санта несе мішок зі сміттям",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Санта несе мішок зі сміттям",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Лазерна вечірка",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Лазерна вечірка",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "Remember to bring your own cat.",
+      "t": "A",
+      "v": "446761_0f",
+      "n": "JokeAudio"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Дегустатор яблучного соусу",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Дегустатор яблучного соусу",
+      "n": "AlternateSpellings"
+    }
+  ]
+}

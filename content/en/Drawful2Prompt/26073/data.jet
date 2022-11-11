@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Апельсиновий сік з м'якоттю",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Апельсиновий сік з м'якоттю",
+      "n": "AlternateSpellings"
+    }
+  ]
+}
