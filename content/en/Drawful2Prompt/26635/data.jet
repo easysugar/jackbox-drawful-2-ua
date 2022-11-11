@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Плачу у душі",
+      "v": "Плач у душі",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Плачу у душі",
+      "v": "Плач у душі",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Why does my crying always sound better in the shower?",
+      "s": "Чому мій плач завжди звучить краще у душі?",
       "t": "A",
       "v": "437663_1f",
       "n": "JokeAudio"

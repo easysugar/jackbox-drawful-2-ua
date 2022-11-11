@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "поет на снігу",
+      "v": "поет на морі",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "поет на снігу",
+      "v": "поет на морі",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Uh, blah blah Robert Frost joke blah.",
+      "s": "Ех, ля ля ля жарт про Миколу Хвильового ля.",
       "t": "A",
       "v": "448370_0f",
       "n": "JokeAudio"

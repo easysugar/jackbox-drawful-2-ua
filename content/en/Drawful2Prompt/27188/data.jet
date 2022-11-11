@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Сором'язлива камера",
+      "v": "Соромитися відеокамери",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Сором'язлива камера",
+      "v": "Соромитися відеокамери",
       "n": "AlternateSpellings"
     },
     {
-      "s": "There’s no shame in being camera shy, you can always be a voice in a video game!",
+      "s": "Це нормально бути сором'язливим перед камерою, ви завжди можете бути голосом у відеоіграх!",
       "t": "A",
       "v": "439322_0f",
       "n": "JokeAudio"

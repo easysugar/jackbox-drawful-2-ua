@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Кричу на зубну щітку",
+      "v": "Крик на зубну щітку",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Кричу на зубну щітку",
+      "v": "Крик на зубну щітку",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Always yell at a toothbrush for at least three minutes every day.",
+      "s": "Регулярно крику на свою щітку мінімум три хвилини двічі на день.",
       "t": "A",
       "v": "439847_0f",
       "n": "JokeAudio"
