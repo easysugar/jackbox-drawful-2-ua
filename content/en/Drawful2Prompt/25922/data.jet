@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Поцілунок з кузиною",
+      "v": "Поцілунок з сестрою",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Поцілунок з кузиною",
+      "v": "Поцілунок з сестрою",
       "n": "AlternateSpellings"
     },
     {
-      "s": "What? What that’s gross! No! I never! Who told... what? Who? No! That’s... that’s ridiculous!",
+      "s": "Що? Що? Як огидно! Ні, ні! Ніколи! Хто сказав... що? Хто? Ні, ні! Це... це безглуздо!",
       "t": "A",
       "v": "435444_0f",
       "n": "JokeAudio"

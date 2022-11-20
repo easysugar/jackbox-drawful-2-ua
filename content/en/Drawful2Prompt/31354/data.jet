@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Клонований алігатор",
+      "v": "Клон алігатора",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Клонований алігатор",
+      "v": "Клон алігатора",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Ugh, finally! An animal to eat the first cloned sheep.",
+      "s": "Єй, нарешті! Тварина, яка з'їсть першу клоновану вівцю.",
       "t": "A",
       "v": "452318_0f",
       "n": "JokeAudio"

@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Я розорений!",
+      "v": "Зрада!",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Я розорений!",
+      "v": "Зрада!",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Aww, those were my first words as a baby.",
+      "s": "О, це ж були мої перші слова.",
       "t": "A",
       "v": "436076_0f",
       "n": "JokeAudio"

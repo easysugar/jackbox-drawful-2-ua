@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Яйця для очей",
+      "v": "Вареники для очей",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Яйця для очей",
+      "v": "Вареники для очей",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Throw in some bacon eyebrows and I’ve met my soulmate.",
+      "s": "Додайте трохи сметани в брови, і це буде моя споріднена душа.",
       "t": "A",
       "v": "444750_0f",
       "n": "JokeAudio"

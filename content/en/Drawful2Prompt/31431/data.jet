@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Балерина",
+      "v": "Фігуристка",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Балерина",
+      "v": "Фігуристка",
       "n": "AlternateSpellings"
     },
     {
-      "s": "I wish I had twinkle toes. Mine only sparkle.",
+      "s": "Я б теж хотіла так вихвалятися фігурою. Своєю фігурою.",
       "t": "A",
       "v": "452549_0f",
       "n": "JokeAudio"
