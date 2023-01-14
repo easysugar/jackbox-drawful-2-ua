@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "стрибок",
+      "v": "гоп",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "стрибок",
+      "v": "гоп",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Sorry for the short prompt. Graphics cost money, people!",
+      "s": "А я хотіла поставити двадцятку на те, що тут буде Вєрка Сердючка.",
       "t": "A",
       "v": "472876_1f",
       "n": "JokeAudio"

@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "помста пінгвіна",
+      "v": "помста страусів",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "помста пінгвіна",
+      "v": "помста страусів",
       "n": "AlternateSpellings"
     },
     {
-      "s": "You better watch out, Morgan Freeman. You’re first on their list.",
+      "s": "Стережися, Янику. Ти перший у їхньому списку.",
       "t": "A",
       "v": "436172_0f",
       "n": "JokeAudio"

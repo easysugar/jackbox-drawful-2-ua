@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Пес з ірокезом",
+      "v": "Пес Патрон з ірокезом",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Пес з ірокезом",
+      "v": "Пес Патрон з ірокезом",
       "n": "AlternateSpellings"
     },
     {
-      "s": "I’m gonna call him Jeff Dogsworthy.",
+      "s": "Назву його Пес Базука.",
       "t": "A",
       "v": "446950_0f",
       "n": "JokeAudio"

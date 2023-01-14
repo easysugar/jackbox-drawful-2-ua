@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "дупний лікар",
+      "v": "лікар сідниць",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "дупний лікар",
+      "v": "лікар сідниць",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Of course their formal title is butthole doctor.",
+      "s": "Звичайно, таких лікарів офіційно називають \"сідничними лікарями\".",
       "t": "A",
       "v": "435579_0f",
       "n": "JokeAudio"
