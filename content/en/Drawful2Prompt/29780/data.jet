@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Пітні долоні",
+      "v": "Моршин",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Пітні долоні",
+      "v": "Моршин",
       "n": "AlternateSpellings"
     },
     {
-      "s": "Sweaty palms, my least favorite resort.",
+      "s": "Моршин, саме тут спочатку лікують печінку, а потім її тут і садять.",
       "t": "A",
       "v": "447593_1f",
       "n": "JokeAudio"

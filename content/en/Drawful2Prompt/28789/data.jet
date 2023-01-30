@@ -7,16 +7,16 @@
     },
     {
       "t": "S",
-      "v": "Скляні штани",
+      "v": "Скляна сорочка",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "Скляні штани",
+      "v": "Скляна сорочка",
       "n": "AlternateSpellings"
     },
     {
-      "s": "You know what they say: people in glass pants, should not pass stones.",
+      "s": "Як то кажуть, з миру по скельці - голому сорочка.",
       "t": "A",
       "v": "444612_0f",
       "n": "JokeAudio"
